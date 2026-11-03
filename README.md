@@ -8,3 +8,6 @@ Relational Database Management (MySQL Server): Designing a normalized relational
 Ad-Hoc Analysis & Auditing (Microsoft Excel): Conducting exploratory data auditing, quick reconciliations, and isolated comment text inspections.
 
 Enterprise Reporting & Interactive Dashboards (Power BI & Tableau): Building dimensional star schemas, engineering DAX measures for financial and operational KPIs, and delivering interactive visualizations in both Power BI and Tableau for executive decision-making.
+
+To download the main data source:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
